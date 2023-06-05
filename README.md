@@ -82,6 +82,8 @@ public class DetectCollider : MonoBehaviour
 }
 ```
 ## Output:
+![image](https://github.com/Vineesh-AI-DS/Animal-Feeding-Phase-II/assets/93427254/c3530b83-5537-42f4-aef3-be3161e7f74b)
+
 
 ## Result:
 Thus, Animal feeding game Phase-2 using unity is developed successfully.
